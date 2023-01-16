@@ -8,4 +8,4 @@ The example scripts in this repo covers all the different renderer plugins and i
 `If your paths are different for the various components used in this script, then you have to update those paths to the correct location on your system.`
 
 ## Usage & Futher Reading
-Medium Article 
+https://andcgi.medium.com/katana-batch-script-for-windows-27a8d778630a
